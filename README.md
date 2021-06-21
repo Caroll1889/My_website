@@ -1,4 +1,4 @@
-#  My_website
+#  My personal website
 
 **Responsive portfolio website**
 
