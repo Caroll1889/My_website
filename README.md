@@ -26,5 +26,7 @@ Web developer, with knowledge and experience, working in web technologies, deliv
     <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter:diacaroll" /></a>
 <a href="https://www.linkedin.com/in/diahan-hudgson/" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin:diahan-hudgson"/></a>
+<a href="https://my-website-ten-delta.vercel.app/" target="_blank">    
+    <img src="https://img.icons8.com/clouds/100/000000/web.png" alt="website:diahan-hudgson"/></a>
 </p>
 
