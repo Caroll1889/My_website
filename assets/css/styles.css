@@ -1,5 +1,5 @@
 /*===== GOOGLE FONTS =====*/
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap');
 
 /*===== VARIABLES CSS =====*/
 :root{
@@ -17,7 +17,7 @@
 
 /*===== Fuente y tipografia =====*/
 :root{
-    --body-font: 'Montserrat', sans-serif;
+    --body-font: 'Raleway', sans-serif;
     --big-font-size: 6.25rem;
     --h2-font-size: 1.25rem;
     --normal-font-size: .938rem;
@@ -251,6 +251,7 @@ img{
 
 .about__button{
     margin-bottom: 20px;
+    
 }
 
 .contact__button{
@@ -455,11 +456,11 @@ img{
         padding: 4rem 0;
     }
     .about__img{
-        width: 200px;
-        height: 200px;
+        width: 300px;
+        height: 300px;
     }
     .about__img img{
-        width: 165px;
+        width: 265px;
     }
 
     .skills__container{
